@@ -1,4 +1,1 @@
-<div dir="ltr" style="text-align: left; " trbidi="on">
-<marquee direction=" up " scrollamount="5">
-Olaa!!
-</span></div>
+Olá! Eu sou Nathan, estudante de tecnologia e artista/webdesigner.
